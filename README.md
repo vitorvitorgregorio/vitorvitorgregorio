@@ -1,5 +1,11 @@
-### Olá mundo! Eu sou o Vitor Gregorio 🏴‍☠️
-<h2> 😻 Apaixonado pela área Front-End </h2>
+ <h1> Olá mundo! Eu sou o Vitor Gregorio 🏴‍☠️ </h1>
+<ul>
+  <li> Apaixonado pela área de Front-End</li>
+  <li> Procuro por oportunidades para iniciar na área como desenvolvedor Front-End <br>
+    e aperfeiçoar cada vez mais meus conhecimentos </li>
+  <li> No momento estou estudando Javascript e Bootstrap </li>
+  
+</ul>
 <div>
   <a href="https://github.com/vitorvitorgregorio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvitorgregorio&show_icons=true&bg_color=141315&title_color=CE86FF&text_color=FFF&border_color=EB69FF&icon_color=CE86FF">
