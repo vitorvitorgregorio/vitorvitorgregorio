@@ -4,6 +4,7 @@
   <li> Procuro por oportunidades para iniciar na área como desenvolvedor Front-End <br>
     e aperfeiçoar cada vez mais meus conhecimentos </li>
   <li> No momento estou estudando Javascript e Bootstrap </li>
+  <Li> Entusisasta de Open Source </li>
   
 </ul>
 <div>
