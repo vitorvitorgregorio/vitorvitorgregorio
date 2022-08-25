@@ -10,8 +10,7 @@
 <div>
   <a href="https://github.com/vitorvitorgregorio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvitorgregorio&show_icons=true&bg_color=141315&title_color=CE86FF&text_color=FFF&border_color=EB69FF&icon_color=CE86FF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvitorgregorio&layout=compact &bg_color=141315&title_color=CE86FF&text_color=FFF&border_color=EB69FF&icon_color=CE86FF"
-    <img>
+
 </div>
   <div style="display: inline_block"> 
    <h2>Minhas habilidades 💡</h2><br>
