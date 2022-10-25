@@ -3,7 +3,7 @@
   <li> Apaixonado pela área de Front-End</li>
   <li> Procuro por oportunidades para iniciar na área como desenvolvedor Front-End <br>
     e aperfeiçoar cada vez mais meus conhecimentos </li>
-  <li> No momento estou estudando Javascript e Bootstrap </li>
+  <li> No momento estou estudando React.js e Sass</li>
   <Li> Entusiasta de Open Source </li>
   
 </ul>
