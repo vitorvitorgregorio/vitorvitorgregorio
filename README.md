@@ -1,10 +1,8 @@
  <h1> Olá mundo! Eu sou o Vitor Gregorio 🏴‍☠️ </h1>
 <ul>
   <li> Apaixonado pela área de Front-End</li>
-  <li> Procuro por oportunidades para atuar como Front-End</li>
   <li> No momento estou estudando React.js e Sass</li>
   <Li> Entusiasta de Open Source </li>
-  
 </ul>
 <div>
   <a href="https://github.com/vitorvitorgregorio">
